@@ -1,3 +1,3 @@
-void main() {
+void Main() {
     System.out.println("Grupp uppgift");
 }
